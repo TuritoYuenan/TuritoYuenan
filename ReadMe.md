@@ -1,8 +1,7 @@
 # Turito Yuenan
 
-![Personal Stats](https://github-readme-stats.vercel.app/api?username=TuritoYuenan&show_icons=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TuritoYuenan)](https://github.com/anuraghazra/github-readme-stats)
+![Personal Stats](https://github-readme-stats.vercel.app/api?username=TuritoYuenan&show_icons=true&hide_rank=true&hide_title=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TuritoYuenan&layout=compact)
 
 ## Coding Experiences
 
