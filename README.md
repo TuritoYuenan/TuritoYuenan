@@ -1,9 +1,11 @@
-# Turito Yuenan
-
 ![Personal Stats](https://github-readme-stats.vercel.app/api?username=TuritoYuenan&show_icons=true&hide_rank=true&hide_title=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TuritoYuenan&layout=compact)
 
-## Coding Experiences
+# About Me
+
+I am a self taught coder and later a Computer Science student with an interest in many aspects of the computer world, from Web development, Desktop applications, Android applications, Robots, Video games and Video game mods (Minecraft mods primarily).
+
+# Coding Experiences
 
 - Python scripting, coding, programming since 2021
   - discord.py & discord-py-interaction, through programming Discord bots
