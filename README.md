@@ -1,20 +1,33 @@
+# Hi, I'm Turito! 👋
+
+![](https://cdnb.artstation.com/p/assets/images/images/056/765/161/4k/jessica-woulfe-rooftop-farm-jw-final.jpg?1670022023)
+
 ![Personal Stats](https://github-readme-stats.vercel.app/api?username=TuritoYuenan&show_icons=true&hide_rank=true&hide_title=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TuritoYuenan&layout=compact)
 
-# About Me
+## 🚀 About Me
 
-I am a self taught coder and later a Computer Science student with an interest in many aspects of the computer world, from Web development, Desktop applications, Android applications, Robots, Video games and Video game mods (Minecraft mods primarily).
+I'm a Computer science student from Swinburne University at Ho Chi Minh city, Vietnam. I specialise in:
 
-# Coding Experiences
+- Software Engineering
+- Internet of Things
+- Web Development
 
-- Python scripting, coding, programming since 2021
-  - discord.py & discord-py-interaction, through programming Discord bots
-- Web Development since 2022, using
-  - Node.js & Deno
-  - SASS and vanilla CSS
-  - Javascript and Typescript
-  - Svelte & React (through Fresh & Remotion)
-  - discord.js & Harmony, through programming Discord bots
-- Kotlin programming, through developing Android applications
-- Java programming, through making Minecraft mods
-- **minor** Lua programming, through scripting Roblox games
+## 🛠 Skills
+
+- HTML, CSS since 2019
+- Python since 2021 (via Discord bot developing)
+- Java since 2021 (via Minecraft modding)
+- Kotlin since 2021 (via Android app developing)
+- JS/TS, SvelteKit since 2023 (via frontend development)
+- Assembly, Ruby, C++ since 2023 (via school project)
+- PHP, C# since 2024 (via school project)
+- Cisco IOS since 2024 (via school course)
+- Arch Linux superuser since 2021
+
+## 🔗 Links
+
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=firefox&logoColor=white)](https://turitoyuenan.pages.dev/)
+[![leetcode](https://img.shields.io/badge/leetcode-ffa116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/TuritoYuenan)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/trietntm-cs)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/TuritoYuenan)
