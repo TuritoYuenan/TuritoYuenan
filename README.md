@@ -1,9 +1,6 @@
 # Hi, I'm Turito! 👋
 
-![](https://cdnb.artstation.com/p/assets/images/images/056/765/161/4k/jessica-woulfe-rooftop-farm-jw-final.jpg?1670022023)
-
-![Personal Stats](https://github-readme-stats.vercel.app/api?username=TuritoYuenan&show_icons=true&hide_rank=true&hide_title=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TuritoYuenan&layout=compact)
+![Solarpunk Artwork by Jessica Woulfe](https://cdnb.artstation.com/p/assets/images/images/056/765/161/4k/jessica-woulfe-rooftop-farm-jw-final.jpg?1670022023)
 
 ## 🚀 About Me
 
