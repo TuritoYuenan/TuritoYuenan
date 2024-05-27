@@ -10,8 +10,8 @@
 I'm a Computer science student from Swinburne University at Ho Chi Minh city, Vietnam. I specialise in:
 
 - Software Engineering
-- Internet of Things
 - Web Development
+- Internet of Things
 
 ## 🛠 Skills
 
@@ -31,3 +31,8 @@ I'm a Computer science student from Swinburne University at Ho Chi Minh city, Vi
 [![leetcode](https://img.shields.io/badge/leetcode-ffa116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/TuritoYuenan)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/trietntm-cs)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/TuritoYuenan)
+
+## 📊 My Statistics
+
+![Personal Stats](https://github-readme-stats.vercel.app/api?username=TuritoYuenan&show_icons=true&hide_rank=true&hide_title=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TuritoYuenan&layout=compact)
