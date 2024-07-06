@@ -1,7 +1,5 @@
 # Hi, I'm Turito! 👋
 
-![Solarpunk Artwork by Jessica Woulfe](https://cdnb.artstation.com/p/assets/images/images/056/765/161/4k/jessica-woulfe-rooftop-farm-jw-final.jpg?1670022023)
-
 ## 🚀 About Me
 
 I'm a Computer science student from Swinburne University at Ho Chi Minh city, Vietnam. I specialise in:
