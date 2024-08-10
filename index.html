@@ -8,6 +8,14 @@
 
 	<link rel="stylesheet" href="https://unpkg.com/@catppuccin/palette/css/catppuccin.css">
 	<link rel="stylesheet" href="index-style.css">
+	<script>
+		function socialIcon(url, id) {
+			document.write(
+				`<a href="${url}">`,
+				`<img width="32" height="32" src="https://cdn.simpleicons.org/${id}/cdd6f4" alt="icon"></a>`
+			)
+		}
+	</script>
 </head>
 
 <body>
@@ -17,14 +25,12 @@
 			<h1>Nguyen Ta Minh Triet</h1>
 		</div>
 		<section id="connections">
-			<a href="https://github.com/TuritoYuenan">
-				<img width="32" height="32" src="https://cdn.simpleicons.org/github/cdd6f4" alt="icon"></a>
-			<a href="https://facebook.com/TuritoYuenan">
-				<img width="32" height="32" src="https://cdn.simpleicons.org/facebook/cdd6f4" alt="icon"></a>
-			<a href="https://linkedin.com/in/trietntm-cs">
-				<img width="32" height="32" src="https://cdn.simpleicons.org/linkedin/cdd6f4" alt="icon"></a>
-			<a href="https://leetcode.com/TuritoYuenan">
-				<img width="32" height="32" src="https://cdn.simpleicons.org/leetcode/cdd6f4" alt="icon"></a>
+			<script>
+				socialIcon('https://github.com/TuritoYuenan', 'github')
+				socialIcon('https://facebook.com/TuritoYuenan', 'facebook')
+				socialIcon('https://linkedin.com/in/trietntm-cs', 'linkedin')
+				socialIcon('https://leetcode.com/TuritoYuenan', 'leetcode')
+			</script>
 		</section>
 		<section id="introduction">
 			<p>I am a Computer Science student at Swinburne&nbsp;University of Technology, Vietnam.</p>
@@ -103,8 +109,8 @@
 				<h2>Experience</h2>
 			</summary>
 			<hgroup>
-				<p>January 2024 - Present</p>
 				<h3>Operational Member @ Swinburne HCMC IT Lab</h3>
+				<p>January 2024 - Present</p>
 				<p>The IT Lab is a "Computer Science club" at Swinburne University HCMC Campus. Here, member students
 					can participate and collaborate in IT/CS projects, as well as share CS knowledge and resources</p>
 			</hgroup>
@@ -114,8 +120,8 @@
 				<h2>Education</h2>
 			</summary>
 			<hgroup>
-				<p>2023 - 2026</p>
 				<h3>Swinburne University of Technology</h3>
+				<p>2023 - 2026</p>
 				<p>Computer Science - Software Development Major</p>
 			</hgroup>
 		</details>
