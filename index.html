@@ -9,10 +9,13 @@
 	<link rel="stylesheet" href="https://unpkg.com/@catppuccin/palette/css/catppuccin.css">
 	<link rel="stylesheet" href="index-style.css">
 	<script>
-		function socialIcon(url, id) {
+		/** Insert an icon from SimpleIcons */
+		function simpleIcon(url, iconID) {
+			const color = window.matchMedia("(prefers-color-scheme: light)").matches ? '000000' : 'cdd6f4'
+			const icon = `https://cdn.simpleicons.org/${iconID}/${color}`
 			document.write(
 				`<a href="${url}">`,
-				`<img width="32" height="32" src="https://cdn.simpleicons.org/${id}/cdd6f4" alt="icon"></a>`
+				`<img width="32" height="32" src="${icon}" alt="icon"></a>`
 			)
 		}
 	</script>
@@ -26,10 +29,10 @@
 		</div>
 		<section id="connections">
 			<script>
-				socialIcon('https://github.com/TuritoYuenan', 'github')
-				socialIcon('https://facebook.com/TuritoYuenan', 'facebook')
-				socialIcon('https://linkedin.com/in/trietntm-cs', 'linkedin')
-				socialIcon('https://leetcode.com/TuritoYuenan', 'leetcode')
+				simpleIcon('https://github.com/TuritoYuenan', 'github')
+				simpleIcon('https://facebook.com/TuritoYuenan', 'facebook')
+				simpleIcon('https://linkedin.com/in/trietntm-cs', 'linkedin')
+				simpleIcon('https://leetcode.com/TuritoYuenan', 'leetcode')
 			</script>
 		</section>
 		<section id="introduction">
