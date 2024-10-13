@@ -102,12 +102,6 @@ details:nth-of-type(6n) {
 	background-color: var(--ctp-mocha-mauve);
 }
 
-footer {
-	grid-area: fotr;
-	padding: 1rem;
-	background-color: var(--ctp-mocha-blue);
-}
-
 @media print {
 	body {
 		margin: 1fr;
@@ -157,10 +151,6 @@ footer {
 	details {
 		background-color: unset !important;
 		border: 4px solid black;
-	}
-
-	footer {
-		display: none;
 	}
 }
 
