@@ -11,7 +11,7 @@
 	<script>
 		/** Insert an icon from SimpleIcons */
 		function simpleIcon(url, iconID) {
-			const color = window.matchMedia("(prefers-color-scheme: light)").matches ? '000000' : 'cdd6f4'
+			const color = window.matchMedia("print").matches ? '000000' : '000000'
 			const icon = `https://cdn.simpleicons.org/${iconID}/${color}`
 			document.write(
 				`<a href="${url}">`,
@@ -26,28 +26,31 @@
 		<div id="persona">
 			<img src="picture.jpg" alt="Profile Picture" id="profile-picture">
 			<h1>Nguyen Ta Minh Triet</h1>
+			<h2>Full Stack Intern</h2>
+			<section id="connections">
+				<script>
+					simpleIcon('https://github.com/TuritoYuenan', 'github')
+					simpleIcon('https://facebook.com/TuritoYuenan', 'facebook')
+					simpleIcon('https://linkedin.com/in/trietntm-cs', 'linkedin')
+					simpleIcon('https://leetcode.com/TuritoYuenan', 'leetcode')
+				</script>
+			</section>
 		</div>
-		<section id="connections">
-			<script>
-				simpleIcon('https://github.com/TuritoYuenan', 'github')
-				simpleIcon('https://facebook.com/TuritoYuenan', 'facebook')
-				simpleIcon('https://linkedin.com/in/trietntm-cs', 'linkedin')
-				simpleIcon('https://leetcode.com/TuritoYuenan', 'leetcode')
-			</script>
-		</section>
 		<section id="introduction">
-			<p>I am a Computer Science student at Swinburne&nbsp;University of Technology, Vietnam.</p>
-			<p>I take interest in developing eco-friendly and sustainable technological solutions to imagine and realise
-				an ideal Solarpunk&nbsp;future.</p>
+			<div>
+				<p>I am a Computer Science student at Swinburne&nbsp;University of Technology, Vietnam. I take interest
+					in developing eco-friendly and sustainable technological solutions to imagine and realise an ideal
+					Solarpunk&nbsp;future.</p>
+			</div>
+			<dl>
+				<dt>Location</dt>
+				<dd>Ho Chi Minh City, Vietnam</dd>
+				<dt>Email address</dt>
+				<dd><a href="mailto:turitoyuenan@proton.me">turitoyuenan@proton.me</a></dd>
+				<dt>Website</dt>
+				<dd><a href="https://turitoyuenan.github.io">turitoyuenan.github.io</a></dd>
+			</dl>
 		</section>
-		<dl>
-			<dt>Location</dt>
-			<dd>Ho Chi Minh City, Vietnam</dd>
-			<dt>Email address</dt>
-			<dd><a href="mailto:turitoyuenan@proton.me">turitoyuenan@proton.me</a></dd>
-			<dt>Website</dt>
-			<dd><a href="https://turitoyuenan.pages.dev">turitoyuenan.pages.dev</a></dd>
-		</dl>
 	</header>
 
 	<main>
@@ -56,29 +59,29 @@
 				<h2>Projects</h2>
 			</summary>
 			<hgroup>
-				<h3>Blood Management System</h3>
+				<h3>Blood Management System (student project)</h3>
 				<p>May 2024 &bull; https://github.com/TuritoYuenan/blood-management-system</p>
-				<p>Vue.js &bull; DynamoDB &bull; Figma</p>
+				<p>TypeScript &bull; Vue.js &bull; Supabase &bull; Deno &bull; Figma</p>
 			</hgroup>
 			<hgroup>
-				<h3>Swinburne Simulator</h3>
+				<h3>Swinburne Simulator (student project)</h3>
 				<p>May 2024 &bull; https://github.com/TuritoYuenan/swinburne-simulator</p>
 				<p>C# &bull; .NET &bull; Godot &bull; Figma</p>
 			</hgroup>
 			<hgroup>
-				<h3>Swinburne Weather Service</h3>
+				<h3>Swinburne Weather Service (student project)</h3>
 				<p>November 2023 &bull; https://github.com/TuritoYuenan/zimmer-wetter</p>
 				<p>C++ &bull; ESP32 &bull; Raspberry Pi &bull; Docker &bull; Svelte &bull; Xata &bull; InfluxDB</p>
 			</hgroup>
 			<hgroup>
-				<h3>OMORI Animatics Website</h3>
+				<h3>OMORI Animatics Website (hobby project)</h3>
 				<p>April 2023 &bull; https://github.com/TuritoYuenan/omori-animatics</p>
 				<p>TypeScript &bull; Svelte &bull; Piped API</p>
 			</hgroup>
 			<hgroup>
-				<h3>AZULI Robot</h3>
+				<h3>AZULI Robot (hobby project)</h3>
 				<p>January 2020 &bull; https://github.com/TuritoYuenan/azuli-robot</p>
-				<p>TypeScript &bull; Python &bull; Deno &bull; Deno Harmony</p>
+				<p>TypeScript &bull; Python &bull; Deno &bull; Harmony.mod.land</p>
 			</hgroup>
 		</details>
 		<details open>
@@ -89,22 +92,27 @@
 			<hgroup>
 				<h3>AWS Academy Graduate - AWS Academy Cloud Architecting</h3>
 				<p>Issued on <time datetime="2024-08-06">06 August 2024</time></p>
+				<p>https://www.credly.com/earner/earned/badge/c8dbca63-9de8-48ff-ab1c-f8e487205478</p>
 			</hgroup>
 			<hgroup>
 				<h3>AWS Academy Graduate - AWS Academy Cloud Foundations</h3>
 				<p>Issued on <time datetime="2024-08-02">02 August 2024</time></p>
+				<p>https://www.credly.com/earner/earned/badge/bbdf3e54-a6f1-4474-b649-29f132b0089b</p>
 			</hgroup>
 			<hgroup>
 				<h3>CCNA: Introduction to Networks</h3>
 				<p>Issued on <time datetime="2024-04-16">16 April 2024</time></p>
+				<p>https://www.credly.com/earner/earned/badge/80be9fe5-f176-4680-a653-d3051b44177f</p>
 			</hgroup>
 			<hgroup>
 				<h3>IELTS Academic 7.0</h3>
 				<p>Issued on <time datetime="2022-09-05">05 September 2022</time></p>
+				<p></p>
 			</hgroup>
 			<hgroup>
 				<h3>Microsoft Office Specialist: Word (Office 2016)</h3>
 				<p>Issued on <time datetime="2022-05-20">20 May 2022</time></p>
+				<p></p>
 			</hgroup>
 		</details>
 		<details open>
@@ -116,6 +124,14 @@
 				<p>January 2024 - Present</p>
 				<p>The IT Lab is a "Computer Science club" at Swinburne University HCMC Campus. Here, member students
 					can participate and collaborate in IT/CS projects, as well as share CS knowledge and resources</p>
+			</hgroup>
+			<hgroup>
+				<h3>Experience Day Supporter @ Swinburne University</h3>
+				<p>April 2024 - August 2024</p>
+				<p>Experience Day is a series of events where high school students and their parents can have a visit to
+					the Swinburne University campus to be introduced to the curriculum, student life, and student
+					projects at university. I have had the chance to both join as a supporter and showcase my own
+					student projects at these events.</p>
 			</hgroup>
 		</details>
 		<details open>
