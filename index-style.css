@@ -109,6 +109,16 @@ details:nth-of-type(6n) {
 		display: flex;
 		flex-direction: column;
 	}
+
+	dl {
+		margin-block: 2rem;
+		columns: 2;
+		column-gap: 4rem;
+	}
+
+	#introduction div {
+		margin-top: 1rem;
+	}
 /* 
 	:root {
 		color: black;
