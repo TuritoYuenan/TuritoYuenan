@@ -17,9 +17,9 @@ I'm a Computer science student from Swinburne University at Ho Chi Minh city, Vi
 ## 🔗 Where to Find Me
 
 <center>
-	<a href="https://turitoyuenan.pages.dev/"><img src="https://img.shields.io/badge/personal_website-fff?style=for-the-badge&logo=firefox&logoColor=black"></a>
+	<a href="https://turitoyuenan.github"><img src="https://img.shields.io/badge/personal_website-fff?style=for-the-badge&logo=firefox&logoColor=black"></a>
 	<a href="https://leetcode.com/TuritoYuenan"><img src="https://img.shields.io/badge/leetcode-ffa116?style=for-the-badge&logo=leetcode&logoColor=white"></a>
-	<a href="https://www.linkedin.com/in/trietntm-cs"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+	<a href="https://linkedin.com/in/trietntm-cs"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 	<a href="https://twitter.com/TuritoYuenan"><img src="https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 </center>
 
