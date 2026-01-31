@@ -11,8 +11,7 @@ I'm a Computer science student from Swinburne University at Ho Chi Minh city, Vi
 ## 📊 My Statistics
 
 <center>
-	<img src="https://github-readme-stats.vercel.app/api?username=TuritoYuenan&show_icons=true&hide_rank=true&hide_title=true">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TuritoYuenan&layout=compact">
+	<img alt="TuritoYuenan's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/TuritoYuenan?cardType=level&preferLogin=false" />
 </center>
 
 ## 🔗 Where to Find Me
